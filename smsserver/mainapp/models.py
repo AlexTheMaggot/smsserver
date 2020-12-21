@@ -1,3 +1,13 @@
+# DjangoImports
+
 from django.db import models
 
-# Create your models here.
+# End DjangoImports
+
+
+# ContactsModel
+
+class Contact(models.Model):
+    phone = models.IntegerField(max_length=12)
+
+# End ContactsModel
