@@ -1,0 +1,1 @@
+smsd_mi.exe -l log.txt -d COM3 -s 115200 -I AT+CPMS=\"SM\" -r -P phones.txt -t "Test" -e cp1251

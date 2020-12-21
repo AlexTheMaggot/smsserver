@@ -1,0 +1,72 @@
+2020-12-02 19:40:30: Can not recode from codetable 'UCS'
+2020-12-02 19:43:34: Can not recode from codetable 'ISO'
+2020-12-02 20:03:23: Can not recode from codetable 'UTF-8' to UCS-2BE
+2020-12-02 20:03:48: Can not recode from codetable 'utf-8' to UCS-2BE
+2020-12-02 20:04:01: Can not recode from codetable 'utf-8' to UCS-2BE
+2020-12-02 20:04:12: Can not recode from codetable 'utf-8' to UCS-2BE
+2020-12-02 20:04:22: Can not recode from codetable 'utf8' to UCS-2BE
+2020-12-02 21:40:57: Modem did not accept the init string
+2020-12-02 21:40:58: Modem did not accept the init string
+2020-12-02 21:42:47: Modem did not accept the init string
+2020-12-02 21:42:48: Modem did not accept the init string
+2020-12-17 19:41:42: Cannot open serial port
+2020-12-17 19:41:45: Cannot open serial port
+2020-12-17 19:41:46: Cannot open serial port
+2020-12-17 19:41:47: Cannot open serial port
+2020-12-17 19:41:49: Cannot open serial port
+2020-12-17 21:12:38: Cannot open serial port
+2020-12-17 21:27:30: Cannot open serial port
+2020-12-17 22:41:39: Modem is not clear to send
+2020-12-17 22:41:41: Modem is not clear to send
+2020-12-17 22:41:42: Modem is not clear to send
+2020-12-17 22:41:43: Modem is not clear to send
+2020-12-17 22:41:45: Modem is not clear to send
+2020-12-17 22:41:46: Modem is not clear to send
+2020-12-17 22:41:47: Modem is not clear to send
+2020-12-17 22:41:49: Modem is not clear to send
+2020-12-17 22:41:50: Modem is not clear to send
+2020-12-17 22:41:51: Modem is not clear to send
+2020-12-17 22:42:03: Modem is not clear to send
+2020-12-17 22:42:04: Modem is not clear to send
+2020-12-17 22:42:06: Modem is not clear to send
+2020-12-17 22:42:07: Modem is not clear to send
+2020-12-17 22:42:08: Modem is not clear to send
+2020-12-17 22:42:10: Modem is not clear to send
+2020-12-17 22:42:11: Modem is not clear to send
+2020-12-17 22:42:12: Modem is not clear to send
+2020-12-17 22:42:14: Modem is not clear to send
+2020-12-17 22:42:15: Modem is not clear to send
+2020-12-17 22:42:16: Modem is not clear to send
+2020-12-17 22:42:18: Modem is not clear to send
+2020-12-17 22:42:19: Modem is not clear to send
+2020-12-17 22:42:20: Modem is not clear to send
+2020-12-17 22:42:22: Modem is not clear to send
+2020-12-17 22:42:23: Modem is not clear to send
+2020-12-17 22:42:23: Cannot open serial port
+2020-12-17 22:42:24: Modem is not clear to send
+2020-12-17 22:42:26: Modem is not clear to send
+2020-12-18 19:35:22: Modem is not clear to send
+2020-12-18 19:35:23: Modem is not clear to send
+2020-12-18 19:35:24: Modem is not clear to send
+2020-12-18 19:35:26: Modem is not clear to send
+2020-12-18 19:35:27: Modem is not clear to send
+2020-12-18 19:35:28: Modem is not clear to send
+2020-12-18 19:35:30: Modem is not clear to send
+2020-12-18 19:35:31: Modem is not clear to send
+2020-12-18 19:35:32: Modem is not clear to send
+2020-12-18 19:35:34: Modem is not clear to send
+2020-12-18 19:35:35: Modem is not clear to send
+2020-12-18 19:35:36: Modem is not clear to send
+2020-12-18 19:35:38: Modem is not clear to send
+2020-12-18 19:35:39: Modem is not clear to send
+2020-12-18 19:35:40: Modem is not clear to send
+2020-12-18 19:35:42: Modem is not clear to send
+2020-12-18 19:35:43: Modem is not clear to send
+2020-12-18 19:35:44: Modem is not clear to send
+2020-12-18 19:35:46: Modem is not clear to send
+2020-12-18 19:35:47: Modem is not clear to send
+2020-12-18 19:35:48: Modem is not clear to send
+2020-12-18 19:35:50: Modem is not clear to send
+2020-12-18 19:35:51: Modem is not ready to answer commands
+2020-12-18 19:35:51: Modem is not clear to send
+2020-12-18 19:35:52: Modem is not clear to send
