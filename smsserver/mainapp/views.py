@@ -55,7 +55,7 @@ def contact_add(request):
 
 
 def contact_list(request):
-    contacts = Contact.objects.all().filter('id')
+    contacts = Contact.objects.all().order_by('id')
     context = {
         'contacts': contacts,
     }
