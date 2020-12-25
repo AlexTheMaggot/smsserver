@@ -1,0 +1,12 @@
+{% extends 'wrapper.html' %}
+
+{% block title %}Изменить контакт {{ contact.phone }}{% endblock %}
+
+{% block content %}
+    <form action="" method="POST">
+        {% csrf_token %}
+        <label for="phone">Введите номер</label>
+        <input type="number" name="phone" id="phone" value="{{ contact.phone }}">
+        <input type="submit">
+    </form>
+{% endblock %}
