@@ -1,0 +1,28 @@
+{% extends 'wrapper.html' %}
+
+{% block title %}Список контактов{% endblock %}
+
+{% block content %}
+    <h1>Список контактов</h1>
+    <a href="{% url 'contact_add' %}">Добавить</a>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Номер</th>
+                <th>Изменить</th>
+                <th>Удалить</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for contact in contacts %}
+                <tr>
+                    <td>{{ contact.id }}</td>
+                    <td>{{ contact.phone }}</td>
+                    <td><a href="{% url 'contact_edit' contact.id %}">Изменть</a></td>
+                    <td><a href="{% url 'contact_delete' contact.id %}">Удалить</a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
